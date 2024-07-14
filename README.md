@@ -2,7 +2,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Naman Dangwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right"  alt="coding" width ="400" src="https://static.vecteezy.com/system/resources/previews/004/491/062/non_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg">
+<img align = "right"  alt="coding" width ="400" src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-men-work-at-home-with-computers-png-image_5361912.jpg">
 - 🔭 I’m a **Software developer** 
 
 - 🌱 I’m currently Working on **Angular, Spring Boot**
