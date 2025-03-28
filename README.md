@@ -1,13 +1,13 @@
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Naman Dangwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img align = "right"  alt="coding" width ="400" src="https://img.freepik.com/premium-photo/cartoon-boy-sitting-front-computer-with-cartoon-image-person-sitting-front-computer_905510-5862.jpg">
 - 🔭 I’m a **Software developer** 
 
 - 🌱 I’m currently Working on **Angular, Spring Boot**
 
-- 💬 Ask me about **Java script**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **namandangwal@gmail.com**
 
